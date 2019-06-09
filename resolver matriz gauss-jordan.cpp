@@ -247,7 +247,7 @@ int main(){
 		matriz[i][i][0]=1;
 		matriz[i][i][1]=1;
 	}
-	
+	/*
 	//reducirla
 	for(int i=0;i<3;i++){
 		
@@ -256,7 +256,7 @@ int main(){
 			matriz[i][b-1][0]/div;
 			matriz[i][b-1][1]/div;
 		}
-	}
+	}*/
 		//imprimir matriz recolectada
 	cout<<" Matriz recolectada  \n";
 
